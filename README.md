@@ -15,11 +15,14 @@ This table helps to set Default values in certain functions.
 ``registrationStatus`` - License Type when registering new Vehicle or Weapon
 
 ```lua
+
+
 Config.API = {
     URL = 'api_url',
     TOKEN = 'token',
-    TOKEN_HEADER_NAME = 'snaily-cad-api-token',
+    TOKEN_HEADER_NAME = 'snaily-cad-api-token'
 }
+
 ```
 ``URL`` - Link on which your CAD is hosted (example: https://api.your-domain-here/v1/ or https://api-test.your-domain-here/v1/)
 
