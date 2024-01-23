@@ -6,7 +6,7 @@ These functions can be called from other scripts with appropriate exports.</p>
 ```lua
 Config.Defaults = {
 
-Config.Framework = 'qbcore' -- qbcore / esx
+
     registrationStatus = 'Valid'
 }
 ```
