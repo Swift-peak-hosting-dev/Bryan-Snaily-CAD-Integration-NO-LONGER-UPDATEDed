@@ -1,7 +1,7 @@
 ---Inserts a new citizen into the database
 ---@param firstname string
 ---@param lastname string
----@param birthdate string format: YYYY/MM/DD
+---@param birthdate string format: YYYY-MM-DD
 ---@param gender? "Male"|"Female"|0|1|"m"|"f"
 ---@param ethnicity? string
 ---@param height? number
