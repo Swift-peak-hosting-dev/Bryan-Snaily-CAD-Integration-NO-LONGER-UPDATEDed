@@ -1,16 +1,19 @@
 # Bryan Snaily CAD Integration
+
 <p>This script holds functions for FiveM scripts to co-operate with Snaily CAD
 These functions can be called from other scripts with appropriate exports.</p>
 
 ## Setup
+
 ```lua
 Config.Defaults = {
     registrationStatus = 'Valid'
 }
 ```
+
 This table helps to set Default values in certain functions.
 
-``registrationStatus`` - License Type when registering new Vehicle or Weapon
+`registrationStatus` - License Type when registering new Vehicle or Weapon
 
 ```lua
 Config.API = {
@@ -19,23 +22,25 @@ Config.API = {
     TOKEN_HEADER_NAME = 'snaily-cad-api-token',
 }
 ```
-``URL`` - Link on which your CAD is hosted (example: https://api.your-domain-here/v1/ or https://api-test.your-domain-here/v1/)
 
-``TOKEN`` - You can find this Token in your CAD Settings (Admin > CAD Settings > API Token)
+`URL` - Link on which your CAD is hosted (example: https://api.your-domain-here/v1/ or https://api-test.your-domain-here/v1/)
+
+`TOKEN` - You can find this Token in your CAD Settings (Admin > CAD Settings > API Token)
 
 ## Exports
 
 ### Is Citizen Registered
+
 Checks if the Citizen exists in the CAD system
 
 ```lua
 exports['bryan_snaily']:IsCitizenRegistered(firstname, lastname)
 ```
 
-| Paramater | Type | Optional | Default | Description |
-|-|-|:-:|-|-|
-| ``firstname`` | (string) | |  | Character's Firstname |
-| ``lastname`` | (string) | |  | Character's Lastname |
+| Paramater   | Type   | Optional | Default | Description           |
+| ----------- | ------ | :------: | ------- | --------------------- |
+| `firstname` | string |    ❌    |         | Character's Firstname |
+| `lastname`  | string |    ❌    |         | Character's Lastname  |
 
 ### Insert New Citizen
 
@@ -43,18 +48,18 @@ exports['bryan_snaily']:IsCitizenRegistered(firstname, lastname)
 exports['bryan_snaily']:InsertNewCitizen(firstname, lastname, birthdate, gender, ethnicity, height, weight, hairColor, eyeColor, address)
 ```
 
-| Paramater | Type | Optional | Default | Description |
-|-|-|:-:|-|-|
-| ``firstname`` | (string) | |  | Firstname |
-| ``lastname`` | (string) | |  | Lastname |
-| ``birthdate`` | (string) | | | Birthdate (format: YYYY/MM/DD) |
-| ``gender`` | (string/int) | Yes | Male | Gender |
-| ``ethnicity`` | (string) | Yes | (Random) | Ethnicity |
-| ``height`` | (int) | Yes |  | Height |
-| ``weight`` | (int) | Yes |  | Weight |
-| ``hairColor`` | (string) | Yes | | Hair Color |
-| ``eyeColor`` | (string) | Yes | | Eye Color |
-| ``address`` | (string) | Yes | | Address |
+| Paramater   | Type                                       | Optional | Default  | Description                    |
+| ----------- | ------------------------------------------ | :------: | -------- | ------------------------------ |
+| `firstname` | string                                     |    ❌    |          | Firstname                      |
+| `lastname`  | string                                     |    ❌    |          | Lastname                       |
+| `birthdate` | string                                     |    ❌    |          | Birthdate (format: YYYY-MM-DD) |
+| `gender`    | 'Male' \| 'Female' \| 'm' \| 'f' \| 0 \| 1 |    ✅    | Male     | Gender                         |
+| `ethnicity` | string                                     |    ✅    | (Random) | Ethnicity                      |
+| `height`    | number                                     |    ✅    |          | Height                         |
+| `weight`    | number                                     |    ✅    |          | Weight                         |
+| `hairColor` | string                                     |    ✅    |          | Hair Color                     |
+| `eyeColor`  | string                                     |    ✅    |          | Eye Color                      |
+| `address`   | string                                     |    ✅    |          | Address                        |
 
 ### Insert New Weapon
 
@@ -62,11 +67,11 @@ exports['bryan_snaily']:InsertNewCitizen(firstname, lastname, birthdate, gender,
 exports['bryan_snaily']:InsertNewWeapon(weaponHash, firstname, lastname)
 ```
 
-| Paramater | Type | Optional | Default | Description |
-|-|-|:-:|-|-|
-| ``weaponHash`` | (string) | |  | Weapon Hash (example: ``WEAPON_PISTOL``) |
-| ``firstname`` | (string) | |  | Owner's Firstname |
-| ``lastname`` | (string) | |  | Owner's Lastname |
+| Paramater    | Type   | Optional | Default | Description                            |
+| ------------ | ------ | :------: | ------- | -------------------------------------- |
+| `weaponHash` | string |    ❌    |         | Weapon Hash (example: `WEAPON_PISTOL`) |
+| `firstname`  | string |    ❌    |         | Owner's Firstname                      |
+| `lastname`   | string |    ❌    |         | Owner's Lastname                       |
 
 ### Insert New Vehicle
 
@@ -74,13 +79,16 @@ exports['bryan_snaily']:InsertNewWeapon(weaponHash, firstname, lastname)
 exports['bryan_snaily']:InsertNewVehicle(plate, vehicleHash, firstname, lastname, color)
 ```
 
-| Paramater | Type | Optional | Default | Description |
-|-|-|:-:|-|-|
-| ``plate`` | (string) | |  | Plate |
-| ``vehicleHash`` | (string) | |  | Vehicle Hash (example: ``blista``) |
-| ``firstname`` | (string) | |  | Owner's Firstname |
-| ``lastname`` | (string) | |  | Owner's Lastname |
-| ``color`` | (string) | Yes |  | Vehicle Color |
+| Paramater     | Type   | Optional | Default | Description                      |
+| ------------- | ------ | :------: | ------- | -------------------------------- |
+| `plate`       | string |    ❌    |         | Plate                            |
+| `vehicleHash` | string |    ❌    |         | Vehicle Hash (example: `blista`) |
+| `firstname`   | string |    ❌    |         | Owner's Firstname                |
+| `lastname`    | string |    ❌    |         | Owner's Lastname                 |
+| `color`       | string |    ✅    |         | Vehicle Color                    |
+
+> [!IMPORTANT]
+> The vehicle hash has to be predefined in the CAD otherwise it will fail.
 
 ### Set License to Citizen
 
@@ -88,15 +96,15 @@ exports['bryan_snaily']:InsertNewVehicle(plate, vehicleHash, firstname, lastname
 exports['bryan_snaily']:SetLicenseToCitizen(license, value, firstname, lastname)
 ```
 
-| Paramater | Type | Optional | Default | Description |
-|-|-|:-:|-|-|
-| ``license`` | (string) | |  | License (``weaponLicense``/``driversLicense``/``pilotLicense``/...) |
-| ``value`` | (string) | |  | License Value (example: ``Valid``/``Suspended``/...) |
-| ``firstname`` | (string) | |  | Character's Firstname |
-| ``lastname`` | (string) | |  | Character's Lastname |
-
+| Paramater   | Type   | Optional | Default | Description                                                   |
+| ----------- | ------ | :------: | ------- | ------------------------------------------------------------- |
+| `license`   | string |    ❌    |         | License (`weaponLicense`/`driversLicense`/`pilotLicense`/...) |
+| `value`     | string |    ❌    |         | License Value (example: `Valid`/`Suspended`/...)              |
+| `firstname` | string |    ❌    |         | Character's Firstname                                         |
+| `lastname`  | string |    ❌    |         | Character's Lastname                                          |
 
 ## Integration
+
 ### ESX
 
 <details><summary>Insert New Citizen</summary><br>
@@ -131,6 +139,7 @@ ESX.RegisterServerCallback('esx_identity:registerIdentity', function(source, cb,
     cb(true)
 end)
 ```
+
 </details>
 
 <details><summary>Insert New Vehicle</summary><br>
@@ -166,6 +175,7 @@ ESX.RegisterServerCallback('esx_vehicleshop:buyVehicle', function(source, cb, mo
 	end
 end)
 ```
+
 </details>
 
 <details><summary>Insert New Weapon</summary><br>
@@ -193,7 +203,7 @@ ESX.RegisterServerCallback('esx_weaponshop:buyWeapon', function(source, cb, weap
                     -- Insert This Here --
                     exports['bryan_snaily']:InsertNewWeapon(weaponName, xPlayer.get('firstname'), xPlayer.get('lastname'))
                     --
-	
+
 					cb(true)
 				else
 					xPlayer.showNotification(TranslateCap('not_enough_black'))
@@ -207,7 +217,7 @@ ESX.RegisterServerCallback('esx_weaponshop:buyWeapon', function(source, cb, weap
                     -- Insert This Here --
                     exports['bryan_snaily']:InsertNewWeapon(weaponName, xPlayer.get('firstname'), xPlayer.get('lastname'))
                     --
-	
+
 					cb(true)
 				else
 					xPlayer.showNotification(TranslateCap('not_enough'))
@@ -218,8 +228,8 @@ ESX.RegisterServerCallback('esx_weaponshop:buyWeapon', function(source, cb, weap
 	end
 end)
 ```
-</details>
 
+</details>
 
 ### QB
 
@@ -246,6 +256,7 @@ RegisterNetEvent('qb-multicharacter:server:createCharacter', function(data)
     end
 end)
 ```
+
 </details>
 
 <details><summary>Insert New Vehicle</summary><br>
@@ -297,6 +308,7 @@ RegisterNetEvent('qb-vehicleshop:server:buyShowroomVehicle', function(vehicle)
     end
 end)
 ```
+
 </details>
 
 <details><summary>Insert New Weapon (TBD)</summary><br>
