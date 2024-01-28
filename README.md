@@ -326,4 +326,4 @@ end)
 
 
 
-[https://www.paypal.com/donate/?hosted_button_id=L38V3QASQT3JN ](https://www.paypal.com/donate/?hosted_button_id=L38V3QASQT3JN)if u would like futre updates or would like to support us the lin k is there 
+[https://www.paypal.com/donate/?hosted_button_id=L38V3QASQT3JN ](https://www.paypal.com/donate/?hosted_button_id=L38V3QASQT3JN)if u would like futre updates or would like to support us the link is there 
