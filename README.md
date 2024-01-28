@@ -12,7 +12,6 @@ If you haven't already, check out SnailyCAD at [https://snailycad.org/](https://
 
 Join our Discord for support or open an issue on GitHub: [https://discord.gg/mwegFPKs6C](https://discord.gg/mwegFPKs6C)
 
-
 # ⚠️ Copyright Notice ⚠️
 
 ## Disclaimer
@@ -32,13 +31,11 @@ If you come across instances where this script is being sold or someone is false
 - **Email:** [swiftpeakhosting@outlook.com]
 - **Website:** [Website](https://www.swiftpeakhosting.co.uk/)
 - **Website:** [https://discord.gg/5Bs6BYSN]
+
 Thank you for respecting our terms and conditions.
 
-
-
-
-
 ## Setup
+
 
 
 ```lua
