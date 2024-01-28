@@ -1,4 +1,4 @@
-# Server Rules
+#  Rules
 
 1. **Respect and Kindness:**
    - Treat others with respect and kindness. Harassment, hate speech, or any form of discrimination will not be tolerated.
