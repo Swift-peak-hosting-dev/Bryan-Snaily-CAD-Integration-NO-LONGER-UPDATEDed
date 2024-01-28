@@ -1,25 +1,19 @@
-# Bryan Snaily CAD Integration for  QB Core or ESX 
+# Bryan Snaily CAD Integration for QB Core or ESX
 
-<p>This script holds functions for FiveM scripts to co-operate with Snaily CAD
-These functions can be called from other scripts with appropriate exports.</p>
+This script contains functions for FiveM scripts to seamlessly integrate with Snaily CAD. These functions can be invoked from other scripts using the appropriate exports.
 
-👏 All credits go to bryanltu on Discord for crafting this script for our community and me. 
+👏 All credits go to BryanLTU on Discord for creating this script for our community, and to me for additional contributions.
 
-Also we give credit to kristian770 for adding some error handling to the resource. Your contribution is greatly appreciated! ❤️
+Special thanks to Kristian770 for enhancing the script with error handling. Your contribution is highly appreciated! ❤️
 
+If you haven't already, check out SnailyCAD at [https://snailycad.org/](https://snailycad.org/). Big thanks to Casper for developing this fantastic open-source CAD.
 
-IF you have not already checked out SnailyCAD at https://snailycad.org/, big thanks to Casper for making this amazing open-source CAD.
+**<span style="color:red">Note: We can only provide support for QB Core or ESX default scripts and open-source configurations. If you have a PID script that is not open source, please contact the script owner, as we are unable to assist you with it.</span>**
 
-
-**<span style="color:red">!!!! Note: We can only provide support for QB Core or ESX defaults scripts and open source configurations. If you have a PID script that is not open source, please contact the owner of the script, as we are unable to assist you with it !!!!</span>**
-
-
-
-Join our discord if u need support or open a issue on git https://discord.gg/mwegFPKs6C
-
-
+Join our Discord for support or open an issue on GitHub: [https://discord.gg/mwegFPKs6C](https://discord.gg/mwegFPKs6C)
 
 ## Setup
+
 
 ```lua
 Config.Defaults = {
