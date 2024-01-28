@@ -4,21 +4,8 @@
 These functions can be called from other scripts with appropriate exports.</p>
 
 
-## Important Information
+**Note:** We can only provide support for QB Core or ESX defaults and open source configurations. If you have a PID script that is not open source, please contact the owner of the script, as we are unable to assist you with it.
 
-Please take note that our support is exclusively available for open-source custom scripts. We do not provide assistance for proprietary scripts, especially in cases involving errors or issues related to the placement of exports within such scripts. Our support is limited to open-source scripts or those included in the default QuickBlox (QB) setup.
-
-### Limitations on Custom Scripts Support
-
-We strongly discourage seeking support for custom scripts that are not open source. Should you encounter any difficulties with custom scripts, particularly those related to errors or export placement, we recommend exploring open-source alternatives or referring to the default QuickBlox (QB) setup for assistance.
-
-### Contacting the Owner
-
-If you require support for an open-source custom script, feel free to contact the script's owner for guidance and assistance.
-
-Thank you for your understanding.
-
----
 
 
 ## Setup
