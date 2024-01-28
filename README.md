@@ -6,7 +6,7 @@ These functions can be called from other scripts with appropriate exports.</p>
 
 👏 All credits go to bryanltu on Discord for crafting this script for our community and me. 
 
-and kristian770 on githuba dded some error handling to the resource Your contribution is greatly appreciated!
+and kristian770 on github adding some error handling to the resource Your contribution is greatly appreciated!
 
 
 
