@@ -10,7 +10,8 @@ Also we give credit to kristian770 for adding some error handling to the resourc
 
 
 
-!!!!! Note: We can only provide support for QB Core or ESX defaults scripts  and open source configurations. If you have a PID script that is not open source, please contact the owner of the script, as we are unable to assist you with it !!!!.
+**<span style="color:red">!!!! Note: We can only provide support for QB Core or ESX defaults scripts and open source configurations. If you have a PID script that is not open source, please contact the owner of the script, as we are unable to assist you with it !!!!</span>**
+
 
 
 Join our discord if u need support or open a issue on git https://discord.gg/mwegFPKs6C
