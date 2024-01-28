@@ -1,4 +1,5 @@
 # Scripts Compatible with Renzu Multicharacter
+framework == 'ESX or qb core ' 
 
 ## 1. Bryan Snaily's New Citizen System
 - **Script Name:** Bryan Snaily's New Citizen System
