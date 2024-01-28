@@ -42,4 +42,4 @@ We respect your privacy, and your information will be treated confidentially. We
 
 ---
 
-### Note: This template is designed for individuals to report potential copyright infringement to you. It's essential to respond promptly and seek legal advice if necessary to handle copyright matters appropriately.
+### Note: This template is designed for individuals to report potential copyright infringement
