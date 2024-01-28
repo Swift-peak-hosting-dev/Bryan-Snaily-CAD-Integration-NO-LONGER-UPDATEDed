@@ -9,7 +9,7 @@
 
 ## Reporting Copyright Infringement
 
-If you believe that content related to the script titled "[Your Script Title]" is being used without authorization, we appreciate your vigilance and encourage you to report it. Please provide the following details:
+If you believe that content related to the script titled "[Bryan-Snaily-CAD-Integration]" is being used without authorization, we appreciate your vigilance and encourage you to report it. Please provide the following details:
 
 ---
 
