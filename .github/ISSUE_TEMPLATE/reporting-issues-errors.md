@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Example Template: ``COPY PAST FILL ME OUT IN THERD ``
+
 
 Title: [FiveM FX Version] Brief Issue Description
 
