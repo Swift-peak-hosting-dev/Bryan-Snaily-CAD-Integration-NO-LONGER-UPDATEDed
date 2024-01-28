@@ -4,7 +4,6 @@
 These functions can be called from other scripts with appropriate exports.</p>
 
 
-a
 
 
 !!!!! Note: We can only provide support for QB Core or ESX defaults scripts  and open source configurations. If you have a PID script that is not open source, please contact the owner of the script, as we are unable to assist you with it !!!!.
