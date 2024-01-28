@@ -7,7 +7,7 @@ framework == ESX or qb core
 - **Compatibility Modification:**
   - Modify the `renzu_multicharacter/server/framework/main.lua` file.
   - Find the `Login` function.
-  - Add the following code block:
+  - Change the following...:
     ```lua
     Login = function(source, data, new, qbslot)
         local source = source
