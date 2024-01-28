@@ -1,4 +1,4 @@
-# Bryan Snaily CAD Integration
+# Bryan Snaily CAD Integration for  QB Core or ESX 
 
 <p>This script holds functions for FiveM scripts to co-operate with Snaily CAD
 These functions can be called from other scripts with appropriate exports.</p>
