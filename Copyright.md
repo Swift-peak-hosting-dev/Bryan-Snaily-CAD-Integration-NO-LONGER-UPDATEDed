@@ -7,13 +7,8 @@
 # Copyright Infringement Reporting
 
 
-## Copying Element: Reporting Copyright Infringement
 
-If you wish to report potential copyright infringement related to the script titled "[Bryan-Snaily-CAD-Integration]", kindly follow the steps below. You can copy and paste the provided template to ensure all necessary details are included.
-
----
-
-## Copying Element: Reporting Copyright Infringement
+## Reporting Copyright Infringement
 
 If you wish to report potential copyright infringement related to the script titled "[Bryan-Snaily-CAD-Integration]", kindly follow the steps below. You can copy and paste the provided template to ensure all necessary details are included.
 
