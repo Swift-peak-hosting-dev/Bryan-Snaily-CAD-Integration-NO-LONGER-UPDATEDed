@@ -3,10 +3,9 @@
 <p>This script holds functions for FiveM scripts to co-operate with Snaily CAD
 These functions can be called from other scripts with appropriate exports.</p>
 
-
 👏 All credits go to bryanltu on Discord for crafting this script for our community and me. 
 
-Also kristian770 on github adding some error handling to the resource Your contribution is greatly appreciated!
+Also we give credit to kristian770 for adding some error handling to the resource. Your contribution is greatly appreciated! ❤️
 
 
 
