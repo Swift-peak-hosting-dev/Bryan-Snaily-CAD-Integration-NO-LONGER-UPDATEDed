@@ -3,6 +3,24 @@
 <p>This script holds functions for FiveM scripts to co-operate with Snaily CAD
 These functions can be called from other scripts with appropriate exports.</p>
 
+
+## Important Information
+
+Please note that we insist on not providing support for custom scripts, especially in cases of errors or issues related to the placement of exports in custom scripts. Our assistance is limited to open-source scripts or those included in the default QuickBlox (QB) setup.
+
+### Custom Scripts
+
+If you encounter problems with a custom script and need help, we recommend reaching out to the script's owner directly. Unfortunately, we cannot assist in resolving issues specific to custom scripts, including debugging or advising on export placement.
+
+### Contacting the Owner
+
+If you wish to use a custom script and encounter difficulties accessing the file or facing other issues, the best course of action is to contact the owner of the script for guidance and support.
+
+Thank you for your understanding.
+
+---
+
+
 ## Setup
 
 ```lua
