@@ -250,7 +250,7 @@ end)
 
 <details><summary>Insert New Citizen</summary><br>
 
-> qb-multicharacter/server/main.lua
+> GO TO FILE qb-multicharacter/server/main.lua
 
 ```lua
 RegisterNetEvent('qb-multicharacter:server:createCharacter', function(data)
