@@ -12,6 +12,32 @@ If you haven't already, check out SnailyCAD at [https://snailycad.org/](https://
 
 Join our Discord for support or open an issue on GitHub: [https://discord.gg/mwegFPKs6C](https://discord.gg/mwegFPKs6C)
 
+
+# ⚠️ Copyright Notice ⚠️
+
+## Disclaimer
+
+Please note that this script is provided for community use and can be modified to suit individual needs. However, under no circumstances is it allowed to be uploaded elsewhere or sold to anyone, as the rights to this script are owned by Swift Peak Hosting. This is intended for the community's benefit and is not meant for exploitation or unauthorized distribution.
+
+## Copyright Information
+
+© [Year] Swift Peak Hosting. All rights reserved.
+
+Any unauthorized reproduction, distribution, or sale of this script is strictly prohibited and may result in legal action. Swift Peak Hosting reserves the right to take appropriate measures to protect its intellectual property.
+
+## Reporting Unauthorized Use
+
+If you come across instances where this script is being sold or someone is falsely claiming it as their own, please contact us immediately:
+
+- **Email:** [swiftpeakhosting@outlook.com]
+- **Website:** [Website](https://www.swiftpeakhosting.co.uk/)
+- **Website:** [https://discord.gg/5Bs6BYSN]
+Thank you for respecting our terms and conditions.
+
+
+
+
+
 ## Setup
 
 
