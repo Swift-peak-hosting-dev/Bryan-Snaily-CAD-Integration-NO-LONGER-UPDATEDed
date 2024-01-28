@@ -13,34 +13,29 @@ If you wish to report potential copyright infringement related to the script tit
 
 ---
 
-## Report Details
+Reporting Copyright Infringement
 
-### Description
-Describe the suspected unauthorized use of the script, outlining where it was discovered, how it was utilized, and any pertinent details.
+If you believe that content related to the script titled "[Bryan-Snaily-CAD-Integration]" is being used without authorization, we appreciate your vigilance and encourage you to report it. Please provide the following details:
+Report Details
+Description
 
-### Links or References
-- [Link to the suspected infringing content]
-- [Any additional links or references]
+Describe the suspected unauthorized use of the script, including where it was found, how it was used, and any relevant details.
+Links or References
 
-### Additional Information
+    [Link to the suspected infringing content]
+    [Any additional links or references]
+
+Additional Information
+
 Include any other information you believe may be helpful in assessing the infringement.
+Your Contact Information
 
----
+If you are willing to be contacted for further information, please provide your contact details below:
 
-## Your Contact Information
+    Email: [Your Email Address]
+    Discord: [Your Discord Username and Server Link, if applicable]
 
-If you are open to being contacted for further information, please provide your contact details below:
+Confidentiality
 
-- **Email:** [Your Email Address]
-- **Discord:** [Your Discord Username and Server Link, if applicable]
-
----
-
-## Confidentiality
-
-We respect your privacy, and your information will be treated confidentially. We may reach out for additional details if necessary, but your details will not be shared without explicit consent.
-
----
-
-### Note: This template is designed for individuals to report potential copyright infringement
-
+We respect your privacy, and your information will be treated confidentially. We may contact you for additional details if needed, but your details will not be shared without your explicit consent.
+Note: This template is designed for individuals to report potential copyright infringement
