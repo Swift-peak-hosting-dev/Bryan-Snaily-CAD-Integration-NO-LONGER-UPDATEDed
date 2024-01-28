@@ -1,12 +1,3 @@
----
-name: 'Custom issue  '
-about: 'Describe this issue in the template '
-title: ''
-labels: ''
-assignees: ''
-
----
-
 ### Issue Description
 
 **Describe the issue:**
@@ -15,13 +6,15 @@ A clear and concise description of what you don't understand in the README.
 ### What Section?
 
 **Specify the section of the README you're having trouble with:**
+- [ ] Setup
 - [ ] Installation
-- [ ] Usage
+- [ ] Exports
 - [ ] Configuration
 - [ ] Troubleshooting
+- [ ] Integration ESX or QB  
 - [ ] Other (please specify)
 
-### Additional Context
+### Additional Context example  such as insert New Citizen-Insert New Vehicle 
 
 **Provide any additional context or details that might help us understand your question better:**
 
@@ -33,7 +26,7 @@ A clear and concise description of what you don't understand in the README.
 
 **Specify relevant details about your environment:**
 - Operating System:
-- Programming Language (if applicable):
+-file Name 
 - Any other relevant information:
 
 ### Checklist
