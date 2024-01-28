@@ -16,11 +16,11 @@ Join our Discord for support or open an issue on GitHub: [https://discord.gg/mwe
 
 ## Disclaimer
 
-Please note that this script is provided for community use and can be modified to suit individual needs. However, under no circumstances is it allowed to be uploaded elsewhere or sold to anyone, as the rights to this script are owned by Swift Peak Hosting. This is intended for the community's benefit and is not meant for exploitation or unauthorized distribution.
+Please note that this script is provided for community use and can be modified to suit individual needs. However, under no circumstances is it allowed to be uploaded elsewhere or sold to anyone, as the rights to this script are owned by Swift Peak Hosting & EWANZO101 . This is intended for the community's benefit and is not meant for exploitation or unauthorized distribution.
 
 ## Copyright Information
 
-© [2024] Swift Peak Hosting. All rights reserved.
+© [2024] Swift Peak Hosting &EWANZO101. All rights reserved.
 
 Any unauthorized reproduction, distribution, or sale of this script is strictly prohibited and may result in legal action. Swift Peak Hosting reserves the right to take appropriate measures to protect its intellectual property.
 
