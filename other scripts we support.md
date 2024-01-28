@@ -2,7 +2,7 @@
 
 ## 1. Bryan Snaily's New Citizen System
 - **Script Name:** Bryan Snaily's New Citizen System
-- **GitHub Repository:** [Bryan Snaily - New Citizen](https://github.com/bryan_snaily/new_citizen)
+- **GitHub Repository:** [Bryan Snaily - New Citizen]([https://github.com/bryan_snaily/new_citizen](https://github.com/EWANZO101/Bryan-Snaily-CAD-Integration)
 - **Compatibility Modification:**
   - Modify the `renzu_multicharacter/server/framework/main.lua` file.
   - Find the `Login` function.
