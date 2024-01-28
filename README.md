@@ -21,7 +21,7 @@ Please note that this script is provided for community use and can be modified t
 
 ## Copyright Information
 
-© [Year] Swift Peak Hosting. All rights reserved.
+© [2024] Swift Peak Hosting. All rights reserved.
 
 Any unauthorized reproduction, distribution, or sale of this script is strictly prohibited and may result in legal action. Swift Peak Hosting reserves the right to take appropriate measures to protect its intellectual property.
 
