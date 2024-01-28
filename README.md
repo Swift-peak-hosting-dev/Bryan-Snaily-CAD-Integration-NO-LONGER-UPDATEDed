@@ -136,6 +136,17 @@ exports['bryan_snaily']:SetLicenseToCitizen(license, value, firstname, lastname)
 | `firstname` | string |    ❌    |         | Character's Firstname                                         |
 | `lastname`  | string |    ❌    |         | Character's Lastname                                          |
 
+
+
+# Bryan-Snaily-CAD-Integration
+
+This is the main documentation for the Bryan Snaily CAD Integration.
+
+For information on other scripts we support, please refer to the [Other Scripts We Support](other%20scripts%20we%20support.md) documentation.
+
+
+
+
 ## Integration
 
 ### ESX
