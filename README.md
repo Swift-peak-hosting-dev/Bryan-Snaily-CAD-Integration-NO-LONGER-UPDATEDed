@@ -6,15 +6,15 @@ These functions can be called from other scripts with appropriate exports.</p>
 
 ## Important Information
 
-Please note that we can only provide support for custom scripts if they are open source. We do not offer assistance for custom scripts, particularly in cases of errors or issues related to the placement of exports in such scripts. Our support is limited to open-source scripts or those included in the default QuickBlox (QB) setup.
+Please take note that our support is exclusively available for open-source custom scripts. We do not provide assistance for proprietary scripts, especially in cases involving errors or issues related to the placement of exports within such scripts. Our support is limited to open-source scripts or those included in the default QuickBlox (QB) setup.
 
 ### Limitations on Custom Scripts Support
 
-We insist on not offering support for custom scripts that are not open source. If you encounter any problems with custom scripts, especially those related to errors or export placement, we recommend using open-source alternatives or referring to the default QuickBlox (QB) setup for assistance.
+We strongly discourage seeking support for custom scripts that are not open source. Should you encounter any difficulties with custom scripts, particularly those related to errors or export placement, we recommend exploring open-source alternatives or referring to the default QuickBlox (QB) setup for assistance.
 
 ### Contacting the Owner
 
-If you need support for a custom script that is open source, feel free to contact the script's owner for guidance and assistance.
+If you require support for an open-source custom script, feel free to contact the script's owner for guidance and assistance.
 
 Thank you for your understanding.
 
