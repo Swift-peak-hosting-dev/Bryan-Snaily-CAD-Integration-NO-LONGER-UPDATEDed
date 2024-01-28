@@ -4,7 +4,7 @@
 These functions can be called from other scripts with appropriate exports.</p>
 
 
-https://www.paypal.com/donate/?hosted_button_id=L38V3QASQT3JN if u would like futre updates or would like to support us the link is there 
+[https://www.paypal.com/donate/?hosted_button_id=L38V3QASQT3JN ](https://www.paypal.com/donate/?hosted_button_id=L38V3QASQT3JN)if u would like futre updates or would like to support us the lin k is there 
 
 
 !!!!! Note: We can only provide support for QB Core or ESX defaults scripts  and open source configurations. If you have a PID script that is not open source, please contact the owner of the script, as we are unable to assist you with it !!!!.
