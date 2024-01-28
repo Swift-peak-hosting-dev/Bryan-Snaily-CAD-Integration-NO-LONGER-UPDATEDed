@@ -9,6 +9,7 @@ framework == ESX or qb core
 - **Script Name:** Bryan Snaily's New Citizen System
 - **GitHub Repository:** [Bryan Snaily - New Citizen]([https://github.com/bryan_snaily/new_citizen](https://github.com/EWANZO101/Bryan-Snaily-CAD-Integration)
 - **Compatibility Modification:**
+- framework  ESX OR QB CORE 
   - Modify the `renzu_multicharacter/server/framework/main.lua` file.
   - Find the `Login` function.
   - Change the following...:
