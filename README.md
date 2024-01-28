@@ -27,10 +27,7 @@ Any unauthorized reproduction, distribution, or sale of this script is strictly 
 ## Reporting Unauthorized Use
 
 If you come across instances where this script is being sold or someone is falsely claiming it as their own, please contact us immediately:
-
-- **Email:** [swiftpeakhosting@outlook.com]
-- **Website:** [Website](https://www.swiftpeakhosting.co.uk/)
-- **Website:** [https://discord.gg/5Bs6BYSN]
+[Report Here](https://github.com/EWANZO101/Bryan-Snaily-CAD-Integration/blob/main/Copyright.md)
 
 Thank you for respecting our terms and conditions.
 
