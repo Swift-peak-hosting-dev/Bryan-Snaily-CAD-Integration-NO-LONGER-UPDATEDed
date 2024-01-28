@@ -1,42 +1,45 @@
-# Copyright Information
 
-## Script Title: [Your Script Title]
+# "CONTACT US - EMAIL TEMPLATE BELOW #
 
-## Author: [Your Name]
+# swiftpeakhosting@outlook.com #
 
-## Date of Creation: [Date]
+
+# Copyright Infringement Reporting
+
+
+## Reporting Copyright Infringement
+
+If you believe that content related to the script titled "[Your Script Title]" is being used without authorization, we appreciate your vigilance and encourage you to report it. Please provide the following details:
 
 ---
 
-## Copyright Statement
-
-This script and its associated content are the intellectual property of [Your Name]. All rights reserved.
-
-## Discovery Date
-
-This script and its associated content were discovered to be used without authorization on [Discovery Date].
-
-## Details of Unauthorized Use
+## Report Details
 
 ### Description
-Describe the unauthorized use of your script, including where it was found, how it was used, and any relevant details.
+Describe the suspected unauthorized use of the script, including where it was found, how it was used, and any relevant details.
 
-### Links
-- [Link to the original script](https://www.yourscriptlink.com)
+### Links or References
+- [Link to the suspected infringing content]
+- [Any additional links or references]
 
-### Contact Information
+### Additional Information
+Include any other information you believe may be helpful in assessing the infringement.
 
-If you believe you are the rightful owner of this script and would like to discuss the unauthorized use, please contact:
+---
+
+## Your Contact Information
+
+If you are willing to be contacted for further information, please provide your contact details below:
 
 - **Email:** [Your Email Address]
 - **Discord:** [Your Discord Username and Server Link, if applicable]
 
 ---
 
-## Legal Action
+## Confidentiality
 
-Unauthorized use or reproduction of this script is a violation of copyright law. Legal action may be taken against individuals or entities found to be in breach of these terms.
+We respect your privacy, and your information will be treated confidentially. We may contact you for additional details if needed, but your details will not be shared without your explicit consent.
 
 ---
 
-### Note: This template is a general guide, and it is advisable to seek legal advice for specific situations. Additionally, consider regularly updating this file to reflect any changes or new developments.
+### Note: This template is designed for individuals to report potential copyright infringement to you. It's essential to respond promptly and seek legal advice if necessary to handle copyright matters appropriately.
