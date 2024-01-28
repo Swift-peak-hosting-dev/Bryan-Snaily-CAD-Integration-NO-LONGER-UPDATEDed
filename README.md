@@ -4,7 +4,7 @@ This script contains functions for FiveM scripts to seamlessly integrate with Sn
 
 👏 All credits go to BryanLTU on Discord for creating this script for our community, and to me for additional contributions.
 
-Special thanks to Kristian770 for enhancing the script with error handling. Your contribution is highly appreciated! ❤️
+Special thanks to Kristian770 on github for enhancing the script with error handling. Your contribution is highly appreciated! ❤️
 
 If you haven't already, check out SnailyCAD at [https://snailycad.org/](https://snailycad.org/). Big thanks to Casper for developing this fantastic open-source CAD.
 
