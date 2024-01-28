@@ -8,6 +8,7 @@ These functions can be called from other scripts with appropriate exports.</p>
 Also we give credit to kristian770 for adding some error handling to the resource. Your contribution is greatly appreciated! ❤️
 
 
+IF you have not already checked out SnailyCAD at https://snailycad.org/, big thanks to Casper for making this amazing open-source CAD.
 
 
 **<span style="color:red">!!!! Note: We can only provide support for QB Core or ESX defaults scripts and open source configurations. If you have a PID script that is not open source, please contact the owner of the script, as we are unable to assist you with it !!!!</span>**
