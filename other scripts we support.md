@@ -40,8 +40,7 @@ framework == ESX or qb core
   - Save the changes.
 
 ## 2. more coming soon 
-- **Script Name:** Example Script
-- **GitHub Repository:** [Example Script](https://github.com/example-script)
-- **Compatibility Modification:**
-  - Modify the relevant files following a similar pattern as demonstrated above.
+Hello.
+
+So in the file you've provided, you would need to locate Vehicleshop.giveVehicle function. Now these would be the changes you would want to make:.
 
