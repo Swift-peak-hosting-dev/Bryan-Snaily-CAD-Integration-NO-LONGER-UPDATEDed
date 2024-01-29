@@ -4,7 +4,7 @@ Before opening a ticket or reporting an issue, please [check here](https://githu
 
 
 
-[Go to Renzu Multicharacter.md](https://github.com/EWANZO101/Bryan-Snailycad-Integration-/blob/main/Renzu%20Multicharacter.md)
+[Go to Renzu Multicharacter](https://github.com/EWANZO101/Bryan-Snailycad-Integration-/blob/main/Renzu%20Multicharacter.md)
 
 
 
