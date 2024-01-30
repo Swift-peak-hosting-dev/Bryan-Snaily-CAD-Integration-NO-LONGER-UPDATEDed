@@ -16,7 +16,7 @@ Join our Discord for support or open an issue on GitHub: [https://discord.gg/mwe
 
 This is the main documentation for the Bryan Snaily CAD Integration.
 
-For information on other scripts we support, please refer to the [Other Scripts We Support](other%20scripts%20we%20support.md) documentation.
+## For information on other scripts we support, please refer to the [Other Scripts We Support](other%20scripts%20we%20support.md) documentation. ###
 
 
 # ⚠️ Copyright Notice ⚠️
