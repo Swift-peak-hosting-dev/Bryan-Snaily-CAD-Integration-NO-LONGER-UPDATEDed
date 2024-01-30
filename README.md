@@ -12,6 +12,13 @@ If you haven't already, check out SnailyCAD at [https://snailycad.org/](https://
 
 Join our Discord for support or open an issue on GitHub: [https://discord.gg/mwegFPKs6C](https://discord.gg/mwegFPKs6C)
 
+
+
+This is the main documentation for the Bryan Snaily CAD Integration.
+
+For information on other scripts we support, please refer to the [Other Scripts We Support](other%20scripts%20we%20support.md) documentation.
+
+
 # ⚠️ Copyright Notice ⚠️
 
 ## Disclaimer
