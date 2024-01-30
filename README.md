@@ -10,7 +10,7 @@ Special thanks to Kristian770 on github for enhancing the script with error hand
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-If you haven't already, check out SnailyCAD at [https://snailycad.org/](https://snailycad.org/). Big thanks to Casper for developing this fantastic open-source CAD.
+If you haven't already, check out SnailyCAD at [https://snailycad.org/](https://snailycad.org/). Big thanks to Casper & The Team for developing this fantastic open-source CAD.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **<span style="color:red">Note: We can only provide support for QB Core or ESX default scripts and open-source configurations. If you have a PID script that is not open source, please contact the script owner, as we are unable to assist you with it.</span>**
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
