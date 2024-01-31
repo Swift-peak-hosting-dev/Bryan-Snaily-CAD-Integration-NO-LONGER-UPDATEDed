@@ -311,10 +311,14 @@ GetValueId = function(table, value, columnToCheck)
     local valueId
 
     PerformHttpRequest(string.format('%sadmin/values/%s', Config.API.URL, table),
-        function(errorCode, resultData)
+        function(errorCode, resultData, resultHeaders, errorData)
             if (errorCode ~= 200) then
                 if errorCode == 404 then
                     error('[Error] This API seems to be outdated, please update the script to the newest release', 1)
+                else
+                    local firstIndex = string.find(errorData, '{')
+                    error("[Error] API Error: " ..
+                        errorCode .. " " .. json.decode(string.sub(errorData, firstIndex or 0)).message)
                 end
                 awaitingResponse = false
                 return
@@ -357,10 +361,14 @@ GetCitizenId = function(firstname, lastname)
     end
 
     PerformHttpRequest(string.format('%sadmin/manage/citizens?query=%s+%s', Config.API.URL, firstname, lastname),
-        function(errorCode, resultData)
+        function(errorCode, resultData, resultHeaders, errorData)
             if (errorCode ~= 200) then
                 if errorCode == 404 then
                     error('[Error] This API seems to be outdated, please update the script to the newest release', 1)
+                else
+                    local firstIndex = string.find(errorData, '{')
+                    error("[Error] API Error: " ..
+                        errorCode .. " " .. json.decode(string.sub(errorData, firstIndex or 0)).message)
                 end
                 awaitingResponse = false
                 return
