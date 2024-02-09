@@ -174,9 +174,10 @@ For information on other scripts we support, please refer to the [Other Scripts 
 --------------------------------------------------------------------------------------------------------------
 #[Known issues](https://github.com/EWANZO101/Bryan-Snailycad-Integration-/blob/main/issues.errors.md)#
 
-
+# Known issues with the inserts and this document will be updated soon #
 
 ## Integration
+
 
 ### ESX
 
@@ -304,7 +305,7 @@ end)
 
 </details>
 
-### QB
+### QB 
 
 <details><summary>Insert New Citizen</summary><br>
 
