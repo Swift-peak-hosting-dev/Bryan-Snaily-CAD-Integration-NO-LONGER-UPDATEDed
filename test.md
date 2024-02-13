@@ -1,3 +1,4 @@
+```lua
 foodItems = {
     ['atom_junkie'] = {
         ['name'] = 'atom_junkie',
