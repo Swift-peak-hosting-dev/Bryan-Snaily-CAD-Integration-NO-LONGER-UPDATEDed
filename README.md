@@ -30,7 +30,13 @@ Join our Discord for support or open an issue on GitHub: [[https://discord.gg/mw
 
 
 
-DOCS - : [https://discord.gg/mwegFPKs6C](https://discord.gg/mwegFPKs6C)
+DOCS & Discord 
+
+
+- : [https://discord.gg/mwegFPKs6C]
+
+
+(https://open.gitbook.com/~space/x4bhEQ4lMbCmY8LW7Sq5)
 
 
 
