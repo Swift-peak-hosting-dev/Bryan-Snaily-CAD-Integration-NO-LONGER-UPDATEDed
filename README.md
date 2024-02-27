@@ -14,7 +14,7 @@ If you haven't already, check out SnailyCAD at [https://snailycad.org/](https://
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **<span style="color:red">Note: We can only provide support for QB Core or ESX default scripts and open-source configurations. If you have a PID script that is not open source, please contact the script owner, as we are unable to assist you with it.</span>**
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Join our Discord for support or open an issue on GitHub: [[https://discord.gg/mwegFPKs6C](https://open.gitbook.com/~space/x4bhEQ4lMbCmY8LW7Sq5)]([https://discord.gg/mwegFPKs6C](https://open.gitbook.com/~space/x4bhEQ4lMbCmY8LW7Sq5))
+Join our Discord for support or open an issue on GitHub: [[https://discord.gg/mwegFPKs6C](https://swift-peak-hosting-dev.gitbook.io/swift-peak-hosting-dev-discord-docs/)]([https://discord.gg/mwegFPKs6C](https://open.gitbook.com/~space/x4bhEQ4lMbCmY8LW7Sq5))
 
 
 
