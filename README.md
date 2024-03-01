@@ -19,7 +19,9 @@ NEW REPO https://github.com/Swift-peak-hosting-dev/Swift-Development-Integration
 
 
 
-####V1-2 NO LONGER UPDATED### Please USe v 3 Above  
+!!!!!!!!!!!!!!!!!!!!!!! THIS REPO IS EOL !!!!!!!!!!!!!!!!!! 
+
+!!!!!!!!!!!!!!!!!!!!!!!!USE V3 ABOVE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 # Bryan Snaily CAD Integration for QB Core or ESX 
