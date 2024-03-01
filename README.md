@@ -19,6 +19,9 @@ NEW REPO https://github.com/Swift-peak-hosting-dev/Swift-Development-Integration
 
 
 
+####V1-2 NO LONGER UPDATED### Please USe v 3 Above  
+
+
 # Bryan Snaily CAD Integration for QB Core or ESX 
 
 This script contains functions for FiveM scripts to seamlessly integrate with Snaily CAD. These functions can be invoked from other scripts using the appropriate exports.
