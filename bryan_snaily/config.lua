@@ -1,3 +1,12 @@
+
+###NOTE THIS IS EOL SO MAY NOT WORK PLEASE USE THE NEW REPO 
+
+=== https://github.com/Swift-peak-hosting-dev/Swift-Development-Integrations-v3/tree/main/Bryan-Snaily-CAD-Integration-main --!!!!!!
+
+
+
+
+
 Config = {}
 
 Config.Defaults = {
